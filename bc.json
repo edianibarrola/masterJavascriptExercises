@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://f7e6e490-e8ab-424b-802e-60f84abef30d.ws-us03.gitpod.io",
+    "address": "https://emerald-silkworm-goq9jpe5.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -248,7 +248,7 @@
         {
             "slug": "20-isSameLength",
             "title": "20-isSameLength",
-            "done": false,
+            "done": true,
             "path": "exercises/20-isSameLength",
             "translations": [
                 "es",
@@ -259,7 +259,7 @@
         {
             "slug": "21-areBothOdd",
             "title": "21-areBothOdd",
-            "done": false,
+            "done": true,
             "path": "exercises/21-areBothOdd",
             "translations": [
                 "es",
