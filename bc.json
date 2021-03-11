@@ -270,7 +270,7 @@
         {
             "slug": "22-isEitherEven",
             "title": "22-isEitherEven",
-            "done": false,
+            "done": true,
             "path": "exercises/22-isEitherEven",
             "translations": [
                 "es",
@@ -281,7 +281,7 @@
         {
             "slug": "23-isOddLength",
             "title": "23-isOddLength",
-            "done": false,
+            "done": true,
             "path": "exercises/23-isOddLength",
             "translations": [
                 "es",
@@ -292,7 +292,7 @@
         {
             "slug": "24-isEvenLength",
             "title": "24-isEvenLength",
-            "done": false,
+            "done": true,
             "path": "exercises/24-isEvenLength",
             "translations": [
                 "es",
@@ -303,7 +303,7 @@
         {
             "slug": "25-isEvenAndGreaterThanTen",
             "title": "25-isEvenAndGreaterThanTen",
-            "done": false,
+            "done": true,
             "path": "exercises/25-isEvenAndGreaterThanTen",
             "translations": [
                 "es",
@@ -314,7 +314,7 @@
         {
             "slug": "26-average",
             "title": "26-average",
-            "done": false,
+            "done": true,
             "path": "exercises/26-average",
             "translations": [
                 "es",
